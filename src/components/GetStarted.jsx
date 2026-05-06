@@ -11,7 +11,7 @@ const STORE_TYPES = [
 
 const CHAT_MESSAGES = [
   { from: "customer", text: "3ndek had l hoodie f la taille M?" },
-  { from: "bot", text: "Oui! La taille M kayna fi stock ✅ Perfect for 170–180cm. T7wess n rservilek had l hoodie?" },
+  { from: "bot", text: "Oui ! La taille M kayna fi stock ✅ Perfect for 170–180cm. T7wess n rservilek had l hoodie?" },
   { from: "customer", text: "Ch7el ydir?" },
   { from: "bot", text: "Ydir 4500DA m3a 48h livraison 🚚 n9der nconfirmi la commande doka?" },
 ];
