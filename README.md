@@ -133,25 +133,25 @@ This repository contains the **landing page** for AutoReply.
 
 ```
 autoreply-landing/
-├── public/                  # Static assets (images, icons, favicon)
+├── public/                  
 │   ├── logo.svg
 │   └── og-image.png
 ├── src/
-│   ├── app/                 # Next.js App Router
-│   │   ├── layout.tsx       # Root layout (meta, fonts)
-│   │   ├── page.tsx         # Main landing page
-│   │   └── globals.css      # Global styles
-│   ├── components/          # Reusable UI components
-│   │   ├── Hero.tsx         # Hero section
-│   │   ├── Features.tsx     # Features section
-│   │   ├── Platforms.tsx    # Supported platforms
-│   │   ├── HowItWorks.tsx   # Step-by-step explanation
-│   │   ├── Pricing.tsx      # Pricing section (if any)
-│   │   ├── Testimonials.tsx # Client reviews
-│   │   ├── CTA.tsx          # Call to action
-│   │   └── Footer.tsx       # Footer
-│   └── lib/                 # Utility functions
-├── .env.example             # Example environment variables
+│   ├── app/                 
+│   │   ├── layout.jsx       
+│   │   ├── page.jsx         
+│   │   └── globals.css      
+│   ├── components/          
+│   │   ├── Hero.jsx         
+│   │   ├── Features.jsx     
+│   │   ├── navbar.jsx    
+│   │   ├── GetStarted.jsx   
+│   │   ├── contact.jsx      
+│   │   ├── Testimonials.jsx 
+│   │   └── aboutus.jsx       
+│   │          
+│   └── lib/                 
+├── .env.example             
 ├── .gitignore
 ├── next.config.js
 ├── tailwind.config.js
