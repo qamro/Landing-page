@@ -33,7 +33,7 @@
 
 ## 🧠 About the Project
 
-**AutoReply** is an AI-powered chatbot agency that helps clothing e-commerce businesses automate their customer support and sales conversations — without lifting a finger.
+**AutoReply** is an AI-powered chatbot agency that helps clothing e-commerce businesses automate their customer support and sales conversations, without lifting a finger.
 
 Our landing page showcases the product, explains its value proposition, and converts visitors into clients. The site is live, deployed on **Vercel**, and built as a modern, fast, SEO-optimized frontend.
 
