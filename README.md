@@ -125,7 +125,7 @@ This repository contains the **landing page** for AutoReply.
 | **Icons** | Lucide / Heroicons |
 | **Forms** | React Hook Form / EmailJS |
 
-> 📝 *Update this section with your actual stack if different.*
+> 📝 
 
 ---
 
@@ -159,7 +159,7 @@ autoreply-landing/
 └── README.md
 ```
 
-> 📝 *Adjust the structure above to match your actual project layout.*
+> 📝 
 
 ---
 
