@@ -167,8 +167,9 @@ This project is deployed on **[Vercel](https://vercel.com/)**.
 
 <div align="center">
 
-Made with ❤️ by the **AutoReply Team** — Empowering e-commerce with AI, one conversation at a time.
+Made with ❤️ by the **AutoReply Team** 
 
-⭐ **Star this repo** if you find it useful!
+
+Empowering e-commerce with AI, one conversation at a time.
 
 </div>
